@@ -25,3 +25,5 @@ public class radialProgress : MonoBehaviour
         image.fillAmount = currentValue / 100;
     }
 }
+
+// hand movement cal
