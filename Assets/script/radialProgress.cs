@@ -27,3 +27,4 @@ public class radialProgress : MonoBehaviour
 }
 
 // hand movement cal
+//2qwwszff,hj][phijx4e4444]

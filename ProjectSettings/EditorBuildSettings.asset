@@ -8,5 +8,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/appDev/progress.unity
+    guid: a18094ada79f749c08cf0c3bf10a29df
+  - enabled: 1
+    path: Assets/Scenes/appDev/homepage.unity
+    guid: 03553a521389e43c6a961d7fd5e366b4
+  - enabled: 1
+    path: Assets/Scenes/appDev/morepage.unity
+    guid: 736cad12b311044de86e9da5a7bd9705
+  - enabled: 1
+    path: Assets/Scenes/appDev/gamePage.unity
+    guid: bc52f494fdb144faa9b1626276f87b24
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5423f2d1fa1b348bb8bc8a051bbf7cce, type: 2}
